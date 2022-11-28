@@ -1,1 +1,1 @@
-/home/yan/Desktop/wordpress - business agency - child theme/cleanTheme.js
+console.log("hello world!");

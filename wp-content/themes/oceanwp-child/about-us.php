@@ -7,7 +7,7 @@
 get_header();
 ?>
 
-<h1>О нас</h1>
+<h1>About us/h1>
 <?php 
 get_footer();
 ?>

@@ -1,0 +1,1 @@
+/home/yan/Desktop/wordpress - business agency - child theme/cleanTheme.js
